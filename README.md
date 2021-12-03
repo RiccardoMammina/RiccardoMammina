@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RiccardoMammina
+- 🌱 I’m currently learning Angular
+- 📫 How to reach me https://www.linkedin.com/in/riccardo-mammina-a34675226/
